@@ -2,3 +2,6 @@
 *.bak
 *.log
 logs/
+_site
+.sass-cache
+.jekyll-metadata
